@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import AppComponent from './components/app'; // Importing the corrected App component
+import AppComponent from './components/app'; 
 
 function App() {
   return (
     <div className="App">
-      <AppComponent /> {/* Component names should be capitalized */}
+      <AppComponent /> 
     </div>
   );
 }
